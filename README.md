@@ -1,2 +1,2 @@
 # LearningGIT
-Author - Jayasurya Gutti
+Author - Jayasurya
